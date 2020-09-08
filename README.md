@@ -1,2 +1,2 @@
-# React-Navigation-Android-Club-
+# React-Navigation
 Basic implementation of react navigation
